@@ -9,4 +9,5 @@ Each folder represents a self-contained project with Jupyter/Colab notebooks, co
 - Statistical analysis and interpretation
 
   ## Projects
-  - [Linear Regression](linear-regression/) 
+  - [Linear Regression](linear-regression/)
+  - [Machine Learning Using Trees](machine-learning-trees/)
