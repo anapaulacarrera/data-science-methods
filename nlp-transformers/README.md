@@ -1,5 +1,5 @@
 # Transformer QA on Alice's Adventures in Wonderland 
-## QUestion Answering with Transformers (HuggingFace + RoBERTa) 
+## Question Answering with Transformers (HuggingFace + RoBERTa) 
 
 This project builds a long-document Question Answering (QA) system using a pretrained transformer model from HuggingFace. The model processes Alice’s Adventures in Wonderland by Lewis Carroll, downloaded from Project Gutenberg in raw text form.
 
