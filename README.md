@@ -12,3 +12,4 @@ Each folder represents a self-contained project with Jupyter/Colab notebooks, co
   - [Linear Regression](linear-regression/)
   - [Machine Learning Using Trees](machine-learning-trees/)
   - [Transfer Learning CNN Image Classification](cnn-transfer-learning/)
+  - [NLP Using Transformers](nlp-transformers)
